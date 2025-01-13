@@ -1,5 +1,16 @@
+##CUSTOM##
+
+#Large data files (eventually these should be accessed from the cloud, not locally)
+data/train/
+data/test/
+
+#Mac
 *.DS_Store
 
+
+
+
+##EVERYTHING BELOW THIS IS JUST STANDARD PYTHON .GITIGNORE FILE##
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
