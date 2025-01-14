@@ -24,8 +24,7 @@ dependencies = [
     "morphospaces (>=0.0.4)",
     "copick-torch @ git+https://github.com/copick/copick-torch.git",
     "gql (>=2.0.0)",
-    "pyside2 (>=5.12.0)",
-    "shiboken2 (==5.15.2.1)",
+    "matplotlib (>=3.10.0,<4.0.0)",
 ]
 
 
