@@ -16,7 +16,7 @@ dependencies = [
     "cryoet-data-portal (==4.0.0)",
     "s3fs (>=2024.6.0)",
     "trimesh (>=4.4.0,<6.0.0)",
-    "scikit-image (>=0.24.0,<1.0.0)",
+    "scikit-image (>=0.20.0,<1.0.0)",
     "ome-zarr (>=0.8.0,<1.0.0)",
     "copick (>=0.6.0,<1.0.0)",
     "copick-utils @ git+https://github.com/copick/copick-utils.git",
@@ -29,6 +29,7 @@ dependencies = [
     "napari-mrcfile-reader (>=0.1.0,<0.4.0)",
     "napari-ome-zarr (>=0.5.0,<0.8.0)",
     "napari-cryoet-data-portal (>=0.5.0,<1.0.0)",
+    "tensorflow (>=2.10.0,<3.0.0)",
 ]
 
 
